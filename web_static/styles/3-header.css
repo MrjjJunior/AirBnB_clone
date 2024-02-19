@@ -6,4 +6,6 @@ header{
     border-bottom: 1px solid #CCCCCC;
     display: flex;
     align-items: center;
+    background:url("../images/logo-3_header.png") no-repeat center;
+    padding-left: 20px;
 }
